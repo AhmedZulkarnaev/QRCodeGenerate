@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+
+# Flet temporary files
+*.flet/
+
+# QR Code images
+qr_code.png
+
+# Logs and system files
+*.log
+.DS_Store
+
+.idea/
